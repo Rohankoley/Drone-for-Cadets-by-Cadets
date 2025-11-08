@@ -136,7 +136,6 @@ USE AT YOUR OWN RISK.
 Project Name: **Drone for Cadets by CADETS**  
 Developed by: **Rohan Koley**  
 Mentored under: **CADETS Initiative**  
-Organization: **Vigilantia Prasidium Pvt. Ltd.**  
 Version: **Beta v1**
 
 ---
