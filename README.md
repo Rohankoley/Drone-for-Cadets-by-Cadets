@@ -129,13 +129,3 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR
 INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
 USE AT YOUR OWN RISK.
 ```
-
----
-
-## ✍️ Credits
-Project Name: **Drone for Cadets by CADETS**  
-Developed by: **Rohan Koley**  
-Mentored under: **CADETS Initiative**  
-Version: **Beta v1**
-
----
